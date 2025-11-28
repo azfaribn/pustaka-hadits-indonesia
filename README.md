@@ -52,5 +52,5 @@ Ikuti langkah-langkah ini untuk menjalankan proyek di komputer Anda:
 
 ### 1. Clone Repository
 ```bash
-git clone [https://github.com/azfaribn/pustaka-hadits-indonesia.git](https://github.com/username-anda/pustaka-hadits-indonesia.git)
+git clone [https://github.com/azfaribn/pustaka-hadits-indonesia.git](https://github.com/azfaribn/pustaka-hadits-indonesia.git)
 cd pustaka-hadits-indonesia
