@@ -7,7 +7,7 @@
 
 **Pustaka Hadits Indonesia** adalah ensiklopedia hadits digital berbasis web yang dirancang untuk memudahkan umat Muslim mencari, membaca, dan membagikan hadits shahih. Aplikasi ini dibangun dengan React.js dan terhubung langsung ke database cloud Supabase, menawarkan antarmuka yang modern, responsif, dan kaya fitur.
 
-🔗 **Live Demo:** [Lihat Website](https://username-anda.github.io/repo-anda) *(Ganti dengan link deploy Anda)*
+🔗 **Live Demo:** [Lihat Website](https://pustaka-hadits-indonesia.vercel.app/).
 
 ---
 
